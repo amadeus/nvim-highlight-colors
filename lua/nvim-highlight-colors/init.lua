@@ -286,8 +286,7 @@ vim.api.nvim_create_autocmd({
 })
 
 vim.api.nvim_create_autocmd({
-	"VimResized",
-	"WinScrolled",
+	"CursorHold",
 }, {
 	callback = M.handle_autocmd_callback,
 })

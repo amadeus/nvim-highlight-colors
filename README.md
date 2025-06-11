@@ -4,6 +4,9 @@
 </a>
 </br>
 
+**NOTE:** The main reason for this fork is to not ruin performance by performing
+this work on scroll/resize which are not optimized
+
 > Highlight colors within Neovim
   
 <img width="640" src="https://github.com/mvllow/nvim-highlight-colors/assets/1474821/d99a800c-0ea9-44f9-bc1c-986236adf44a" alt="Background highlights for hex, rgb, hsl, named colors, and CSS variables" />
